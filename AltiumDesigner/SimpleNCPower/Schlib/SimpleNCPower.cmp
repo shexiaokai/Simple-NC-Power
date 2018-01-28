@@ -1,0 +1,28 @@
+Component Name : Component_1
+
+Part Count : 2
+
+Part : *
+     Pins - (Normal) : 0
+          Hidden Pins : 
+
+Part : *
+     Pins - (Normal) : 16
+          VSS            1              Power
+          VDD            2              Power
+          VL             3              Passive
+          RS             4              Input
+          R/W            5              Input
+          E              6              Input
+          D0             7              I/O
+          D1             8              I/O
+          D2             9              I/O
+          D3             10             I/O
+          D4             11             I/O
+          D5             12             I/O
+          D6             13             I/O
+          D7             14             I/O
+          BLA            15             Power
+          BLK            16             Power
+          Hidden Pins : 
+
